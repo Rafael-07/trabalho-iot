@@ -1,7 +1,4 @@
-/* 
-Made by Marco Fusco
-May 20, 2016
-Contact me at: marcofusco111@gmail.com
+/*
 */
    
 
