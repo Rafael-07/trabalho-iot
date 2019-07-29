@@ -1,9 +1,4 @@
-/* 
- *  RFID Module RC522
- *  Simple Project:- Arduino will read RFID Tag and Display To the Serial Monitor!
- *  
- *  RFID RC522 and Arduino Uno Pin Configuration
- *  
+
  *  RFID RC522          Arduino Uno
  *  SS/SDA              D10
  *  SCK                 D13
